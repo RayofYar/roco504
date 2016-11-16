@@ -29,7 +29,7 @@ int main(int argc, char **argv)
 
 	// initialise pi camera
 	raspicam::RaspiCam_Cv Camera;
-    Camera.set( CV_CAP_PROP_FORMAT, CV_8UC3);
+    	Camera.set( CV_CAP_PROP_FORMAT, CV_8UC3);
 	Mat pi_image;
 
 	// check camera will open
