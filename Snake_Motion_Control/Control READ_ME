@@ -1,0 +1,6 @@
+Control Code Readme
+Version 1.0
+
+This code is written for the Arbotix-M microcontroller and will require the installation of the hardware and softare libraries for correct compilation
+once the controller is programmed it begins reading the serial port for any commands
+The programme has several motion methods, selected through commented lines.
